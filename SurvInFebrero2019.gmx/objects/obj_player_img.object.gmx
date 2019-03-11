@@ -3,7 +3,7 @@
   <spriteName>sprt_personajes_imagenes</spriteName>
   <solid>0</solid>
   <visible>-1</visible>
-  <depth>2</depth>
+  <depth>-10</depth>
   <persistent>0</persistent>
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>globalvar persAct, roomactivo;
+            <string>globalvar persAct, roomactivo, nombre;
 persAct= false;
 sprite_index = sprt_personajes_imagenes;
 image_speed = 0;
@@ -76,7 +76,8 @@ image_speed = 0;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if (ID == 1)
+            <string>
+if (ID == 1)
 {
 instance_deactivate_object(obj_desc_obrero)
 }
@@ -216,6 +217,31 @@ with (inst_1545345D) image_blend = c_yellow;
           <argument>
             <kind>1</kind>
             <string>draw_self();
+draw_set_alpha(1);
+switch (ID)
+{
+    case 1: 
+    draw_set_colour(c_white);
+    draw_set_font(font_nombrePersonajes);
+    draw_text_ext(bbox_left + 20, bbox_bottom + 10, "Obrero", 10, 100);
+    break;
+    case 2: 
+    draw_set_colour(c_white);
+    draw_set_font(font_nombrePersonajes);
+    draw_text_ext(bbox_left + 20, bbox_bottom + 10, "Enfermera", 10, 100);
+    break;
+    case 3: 
+    draw_set_colour(c_white);
+    draw_set_font(font_nombrePersonajes);
+    draw_text_ext(bbox_left + 20, bbox_bottom + 10, "Estudianta", 10, 100);
+    break;
+    case 4: 
+    draw_set_colour(c_white);
+    draw_set_font(font_nombrePersonajes);
+    draw_text_ext(bbox_left + 20, bbox_bottom + 10, "Godínez", 10, 100);
+    break;
+}
+
 
 
 </string>
@@ -252,6 +278,8 @@ if (keyboard_key_press(){
         with (inst_C620A0EB) image_blend = c_olive;
     }
 }*/
+
+
 </string>
           </argument>
         </arguments>

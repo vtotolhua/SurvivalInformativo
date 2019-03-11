@@ -404,7 +404,7 @@
       <sprite>sprites\sprt_personaje_punk4</sprite>
     </sprites>
     <sprites name="sprt_CajaDialogos">
-      <sprite>sprites\sprite324</sprite>
+      <sprite>sprites\sprt_Ballons_portada_2</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -432,10 +432,14 @@
   <fonts name="fonts">
     <font>fonts\font_time</font>
     <font>fonts\font_mensajes</font>
+    <font>fonts\font_Inicio</font>
+    <font>fonts\font_nombrePersonajes</font>
+    <font>fonts\font_msg_portada2</font>
   </fonts>
   <objects name="objects">
     <objects name="obj_portada">
       <object>objects\obj_portada</object>
+      <object>objects\obj_port2_2</object>
       <object>objects\portada</object>
       <object>objects\obj_titulo</object>
       <object>objects\obj_creditos</object>
@@ -544,6 +548,7 @@
       <object>objects\obj_obstaculo</object>
       <object>objects\obj_DialogueSystem</object>
       <object>objects\objDialogueBox</object>
+      <object>objects\obj_globosdialogo</object>
       <object>objects\obj_likes1</object>
       <object>objects\obj_contenedor_mensajes</object>
       <object>objects\obj_cont_mens_twitter</object>
@@ -557,6 +562,7 @@
       <object>objects\obj_port2_menalea</object>
       <object>objects\obj_playambientacion</object>
       <object>objects\obj_despliego_resultados</object>
+      <object>objects\obj_opacityLayer</object>
     </objects>
     <objects name="obj_supers">
       <object>objects\obj_otzo1</object>

@@ -26,7 +26,7 @@
           <argument>
             <kind>1</kind>
             <string>if (room_get_name(room) == "portada2"){
-audio_play_sound(snd_Escena_II_Alarma, 1, false);
+audio_play_sound(snd_Escena_II_Alarma, 1, true);
 }
 </string>
           </argument>

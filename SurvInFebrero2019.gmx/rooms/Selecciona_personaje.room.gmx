@@ -56,6 +56,7 @@
     <instance objName="obj_player_img" x="192" y="544" name="inst_77B5E29E" locked="0" code="ID = 3;&#xA;" scaleX="0.888888895511627" scaleY="0.896000027656555" colour="4294967295" rotation="0"/>
     <instance objName="obj_player_img" x="768" y="544" name="inst_1545345D" locked="0" code="ID = 4;&#xA;" scaleX="0.888888895511627" scaleY="0.896000027656555" colour="4294967295" rotation="0"/>
     <instance objName="obj_siguiente_boton" x="448" y="704" name="inst_907B0DA7" locked="0" code="" scaleX="1.60000002384186" scaleY="2.32727265357971" colour="4294967295" rotation="0"/>
+    <instance objName="obj_opacityLayer" x="64" y="0" name="inst_1EB3CE1C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

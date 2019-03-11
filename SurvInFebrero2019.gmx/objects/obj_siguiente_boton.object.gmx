@@ -31,6 +31,7 @@
     }
 }
     if (room_get_name(room) == "Controles"){
+        audio_stop_all();
         room_goto(roomactivo);
     }
 </string>
@@ -61,6 +62,7 @@
     }
 }
     if (room_get_name(room) == "Controles"){
+        audio_stop_all();
         room_goto(roomactivo);
     }
 

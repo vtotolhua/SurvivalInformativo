@@ -87,7 +87,7 @@ PosTextY -= 0.5;
             <kind>1</kind>
             <string>draw_self();
 draw_set_colour(c_white);
-draw_set_font(font_mensajes);
+draw_set_font(font_Inicio);
 draw_text_ext(PosTextX, PosTextY, "La historia se desarrolla justo después de un evento catastrófico que impacta a mediodía en toda una ciudad “x”. Todos los medio de transporte, con excepción del metro, están detenidos e inutilizables. La única manera de trasladarse es a pie. El objetivo final es regresar a salvo a casa antes de que oscurezca.", 30, 781);
 </string>
           </argument>

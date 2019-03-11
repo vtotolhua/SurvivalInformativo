@@ -143,7 +143,7 @@ paso1=1;</code>
     <instance objName="obj_fabrica3" x="6048" y="608" name="inst_85F70759" locked="0" code="" scaleX="1.49333333969116" scaleY="1.32871973514557" colour="4294967295" rotation="0"/>
     <instance objName="obj_fabrica3" x="6528" y="672" name="inst_3E7DCF7C" locked="0" code="" scaleX="1.49333333969116" scaleY="1.55017304420471" colour="4294967295" rotation="0"/>
     <instance objName="obj_edificiocar1" x="4064" y="1280" name="inst_1CF0E925" locked="0" code="" scaleX="0.959999978542328" scaleY="0.900351703166962" colour="4294967295" rotation="0"/>
-    <instance objName="obj_iglesia" x="7552" y="1728" name="inst_5C0D748B" locked="0" code="" scaleX="1.60000002384186" scaleY="1.70414197444916" colour="4294967295" rotation="1"/>
+    <instance objName="obj_iglesia" x="7584" y="1600" name="inst_5C0D748B" locked="0" code="" scaleX="1.60000002384186" scaleY="1.70414197444916" colour="4294967295" rotation="1"/>
     <instance objName="obj_fabrica1_new" x="992" y="3136" name="inst_2455D311" locked="0" code="" scaleX="1.71000003814697" scaleY="1.54999995231628" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa1" x="1760" y="3456" name="inst_B508484E" locked="0" code="" scaleX="0.959999978542328" scaleY="1.03225803375244" colour="4294967295" rotation="0"/>
     <instance objName="obj_fabrica1_new" x="448" y="3456" name="inst_41894DC4" locked="0" code="" scaleX="1.60000002384186" scaleY="1.66089963912964" colour="4294967295" rotation="0"/>
@@ -152,7 +152,7 @@ paso1=1;</code>
     <instance objName="obj_fabrica1_new" x="544" y="3872" name="inst_AC6077D5" locked="0" code="" scaleX="0.959999978542328" scaleY="0.996539771556854" colour="4294967295" rotation="0"/>
     <instance objName="obj_pasto" x="3456" y="3712" name="inst_8651663A" locked="0" code="" scaleX="1.79999995231628" scaleY="1.07000005245209" colour="4294967295" rotation="35"/>
     <instance objName="obj_metro2" x="7680" y="4608" name="inst_F6DF8DE4" locked="0" code="" scaleX="1.91999995708466" scaleY="1.72972977161407" colour="4294967295" rotation="0"/>
-    <instance objName="obj_escuela1" x="7040" y="2304" name="inst_3C80CF0D" locked="0" code="" scaleX="1.22666668891907" scaleY="1.35111105442047" colour="4294967295" rotation="-2"/>
+    <instance objName="obj_escuela1" x="6944" y="2208" name="inst_3C80CF0D" locked="0" code="" scaleX="1.22666668891907" scaleY="1.35111105442047" colour="4294967295" rotation="-2"/>
     <instance objName="obj_cartel" x="9504" y="3008" name="inst_1221DC36" locked="0" code="" scaleX="1.27999997138977" scaleY="1.17972350120544" colour="4294967295" rotation="0"/>
     <instance objName="obj_hospital6" x="8672" y="4000" name="inst_65BF558D" locked="0" code="" scaleX="1.38666665554047" scaleY="1.5311005115509" colour="4294967295" rotation="0"/>
     <instance objName="obj_cartel5" x="11776" y="2560" name="inst_47513FF9" locked="0" code="" scaleX="0.746666669845581" scaleY="0.862275421619415" colour="4294967295" rotation="0"/>
@@ -189,13 +189,13 @@ paso1=1;</code>
     <instance objName="obj_hospital" x="3936" y="4864" name="inst_EC7ED91E" locked="0" code="" scaleX="1.27999997138977" scaleY="1.68421053886414" colour="4294967295" rotation="0"/>
     <instance objName="obj_hospital_new" x="8416" y="1952" name="inst_59E2F12F" locked="0" code="" scaleX="1.38666665554047" scaleY="1.5311005115509" colour="4294967295" rotation="0"/>
     <instance objName="obj_hospital3" x="1984" y="832" name="inst_BE05667D" locked="0" code="" scaleX="1.81333339214325" scaleY="1.70666670799255" colour="4294967295" rotation="0"/>
-    <instance objName="obj_parque2" x="3584" y="3680" name="inst_E0260279" locked="0" code="" scaleX="0.426666676998138" scaleY="0.540845096111298" colour="4294967295" rotation="0"/>
-    <instance objName="objt_parque1_n" x="3424" y="4096" name="inst_6B11E2A6" locked="0" code="" scaleX="1.27999997138977" scaleY="1.11304342746735" colour="4294967295" rotation="0"/>
-    <instance objName="objt_parque1_new" x="3296" y="4128" name="inst_358F49AF" locked="0" code="" scaleX="1.27999997138977" scaleY="1.23076927661896" colour="4294967295" rotation="0"/>
-    <instance objName="obj_silla5" x="3296" y="3872" name="inst_1F9BF523" locked="0" code="" scaleX="1.27999997138977" scaleY="1.11304342746735" colour="4294967295" rotation="0"/>
-    <instance objName="obj_silla4" x="3136" y="3648" name="inst_00C520C0" locked="0" code="" scaleX="1.27999997138977" scaleY="1.11304342746735" colour="4294967295" rotation="0"/>
-    <instance objName="obj_silla2" x="3296" y="3616" name="inst_64DF4F17" locked="0" code="" scaleX="1.27999997138977" scaleY="1.23076927661896" colour="4294967295" rotation="0"/>
-    <instance objName="obj_silla3" x="3168" y="3744" name="inst_2AD33C06" locked="0" code="" scaleX="1.27999997138977" scaleY="1.23076927661896" colour="4294967295" rotation="0"/>
+    <instance objName="obj_parque2" x="3456" y="3744" name="inst_E0260279" locked="0" code="" scaleX="0.426666676998138" scaleY="0.540845096111298" colour="4294967295" rotation="0"/>
+    <instance objName="objt_parque1_n" x="3456" y="4032" name="inst_6B11E2A6" locked="0" code="" scaleX="1.27999997138977" scaleY="1.11304342746735" colour="4294967295" rotation="0"/>
+    <instance objName="objt_parque1_new" x="3616" y="4096" name="inst_358F49AF" locked="0" code="" scaleX="1.27999997138977" scaleY="1.23076927661896" colour="4294967295" rotation="0"/>
+    <instance objName="obj_silla5" x="3328" y="3680" name="inst_1F9BF523" locked="0" code="" scaleX="1.27999997138977" scaleY="1.11304342746735" colour="4294967295" rotation="0"/>
+    <instance objName="obj_silla4" x="3616" y="3840" name="inst_00C520C0" locked="0" code="" scaleX="1.27999997138977" scaleY="1.11304342746735" colour="4294967295" rotation="0"/>
+    <instance objName="obj_silla2" x="3648" y="3712" name="inst_64DF4F17" locked="0" code="" scaleX="1.27999997138977" scaleY="1.23076927661896" colour="4294967295" rotation="0"/>
+    <instance objName="obj_silla3" x="3232" y="3808" name="inst_2AD33C06" locked="0" code="" scaleX="1.27999997138977" scaleY="1.23076927661896" colour="4294967295" rotation="0"/>
     <instance objName="obj_hospital4" x="14848" y="3200" name="inst_4C2A2BE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_edificioaa" x="384" y="1664" name="inst_743D316A" locked="0" code="" scaleX="0.853333353996277" scaleY="0.870090663433075" colour="4294967295" rotation="0"/>
     <instance objName="obj_edificiobb" x="9696" y="960" name="inst_B3F0CFC4" locked="0" code="" scaleX="1.06666672229767" scaleY="1.06344413757324" colour="4294967295" rotation="0"/>
@@ -487,7 +487,7 @@ paso1=1;</code>
     <instance objName="obj_lineagrande2" x="16096" y="4352" name="inst_D6A53597" locked="0" code="" scaleX="-1.25" scaleY="1.20000004768372" colour="4294967295" rotation="0"/>
     <instance objName="obj_lineagrande2" x="16128" y="2432" name="inst_3265AA4B" locked="0" code="" scaleX="-1.05999994277954" scaleY="1.08502435684204" colour="4294967295" rotation="0"/>
     <instance objName="obj_mision_00" x="5312" y="1664" name="inst_DB1BE400" locked="0" code="" scaleX="1.91999995708466" scaleY="1.77777779102325" colour="4294967295" rotation="0"/>
-    <instance objName="obj_mision_01" x="3808" y="3360" name="inst_8E3CC1B8" locked="0" code="" scaleX="1.91999995708466" scaleY="1.91999995708466" colour="4294967295" rotation="0"/>
+    <instance objName="obj_mision_01" x="3872" y="3616" name="inst_8E3CC1B8" locked="0" code="" scaleX="1.91999995708466" scaleY="1.91999995708466" colour="4294967295" rotation="0"/>
     <instance objName="obj_mision_02" x="10528" y="4064" name="inst_3C538A82" locked="0" code="" scaleX="1.91999995708466" scaleY="1.91999995708466" colour="4294967295" rotation="0"/>
     <instance objName="obj_playambientacion" x="2208" y="448" name="inst_8C537322" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_semaforo" x="6784" y="1696" name="inst_F18AC014" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

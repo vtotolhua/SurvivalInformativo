@@ -40,8 +40,8 @@ dialoglobos[3] = 0;
 dialoglobos[4] = 0;
 dialoglobos[6] = 0;
 
-alarm[0] = 1*room_speed;
-alarm[1] = 2*room_speed;
+alarm[0] = 15*room_speed;
+alarm[1] = 16*room_speed;
 </string>
           </argument>
         </arguments>
@@ -67,6 +67,7 @@ alarm[1] = 2*room_speed;
             <string>show_debug_message(" Entro a alarma 1 " );
 show_debug_message("Valor de dialogo globos" + string(dialoglobos[contDia]));
 alpha = alpha - 0.16666;
+draw_set_alpha(alpha);
 
 show_debug_message("Valor de alpha" + string(alpha));
 
@@ -101,6 +102,7 @@ contDia = 0;
 
 else {
 dialoglobos[contDia].image_alpha = alpha;
+image_alpha = alpha;
 //dialoglobos[contDia].Draw_1.draw_set_alpha(alpha);
 
 }
@@ -128,14 +130,14 @@ alarm[1] = 1*room_speed;
           <argument>
             <kind>1</kind>
             <string>//Posición a colocar el mensaje
-menx = irandom_range(100, 500);
+menx = irandom_range(300, 724);
 //menx = irandom_range(0, 785);
 //meny = irandom_range(100, 444);  
-meny = irandom_range(100, 600);    
+meny = irandom_range(110, 468);    
 
 //número de mensaje a sacar
 var r;
-if (cont &lt; 10)
+if (cont &lt; 20)
 {
 randomize();
 r = irandom_range(0, 94);
@@ -143,45 +145,23 @@ r = irandom_range(0, 94);
     myMsg = string_copy(tabMenTwit[ r, 0], string_length(tabMenTwit[ r,0])-2, string_length(tabMenTwit[ r,0]));
         if (real(myMsg)&lt;100){
 //Si no se ha usado generamos un mensaje 
-        cajaDialogo = instance_create(menx, meny, objDialogueBox);
+        cajaDialogo = instance_create(menx, meny, obj_globosdialogo);
             with(cajaDialogo) {
-                maxLength = sprite_width - 10; 
-                maxHeight = sprite_height - 10;
-                myMessage = string_copy(tabMenTwit[ r, 0], 0,string_length(tabMenTwit[ r,0])-3);
+                maxAncho = sprite_width - 10; 
+                maxAlto = sprite_height + 10;
+                image_speed = 0 
+                obj_globosdialogo.image_index = random(3);
+                mimensaje = string_copy(tabMenTwit[ r, 0], 0,string_length(tabMenTwit[ r,0])-3);
                 }
           }
         dialoglobos[contDia] = cajaDialogo;
         alpha = 1;
-        show_debug_message("Instance CajaDialogo " + string(cajaDialogo));
-        show_debug_message("Instance dialogoglobos " +  string(dialoglobos[contDia]));
+        draw_set_alpha(alpha);
 //Reiniciamos la alarma para que genere otro mensaje en 6 segundos
 alarm[0] = 7*room_speed;
 cont +=1 ;
 }
 
-</string>
-          </argument>
-        </arguments>
-      </action>
-    </event>
-    <event eventtype="3" enumb="0">
-      <action>
-        <libid>1</libid>
-        <id>603</id>
-        <kind>7</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>1</kind>
-            <string>//alarm[1] = 2*room_speed;
 </string>
           </argument>
         </arguments>

@@ -77,15 +77,16 @@ sprite_index = sprt_boton;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>audio_stop_all();
+            <string>
+if (room_get_name(room) == "Click_Inicio")
+{
+audio_stop_all();
 room_goto_next();
-/*
-if (room_get_name(room) == "Click_Inicio"){
-instance_create(0,0, obj_fade_out1);
+//instance_create(0,0, obj_fade_out1);
 }
 if (room_get_name(room) == "portada2" ){
 room_goto_next();
-}*/
+}
 
 </string>
           </argument>
@@ -109,15 +110,15 @@ room_goto_next();
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>audio_stop_all();
-room_goto_next();
-/*
+            <string>
 if (room_get_name(room) == "Click_Inicio"){
-instance_create(0,0, obj_fade_out1);
+audio_stop_all();
+room_goto_next();
+//instance_create(0,0, obj_fade_out1);
 }
 if (room_get_name(room) == "portada2" ){
 room_goto_next();
-}*/
+}
 
 </string>
           </argument>
