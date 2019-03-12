@@ -110,7 +110,7 @@ if (collision_circle(x, y, 200, person, true, true)&amp;&amp; poop == 1 )
                       tabMenprev[ r ] = string_insert(uno, tabMenprev[ r ], string_length(tabMenprev[ r ])-1);        
                       myMsg1= tabMenprev[ r ];  
 
-    alarm[0] = 10*room_speed;
+    alarm[0] = 5*room_speed;
     mensdestprev = dialogueBox;
 
     }

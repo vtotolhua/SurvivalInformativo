@@ -52,7 +52,7 @@ var mimensaje, maxAncho, maxAlto;
             <kind>1</kind>
             <string>//sobre el objeto pone el texto 
 draw_self();
-draw_set_colour(c_maroon);
+draw_set_colour(c_dkgray);
 draw_set_font(font_msg_portada2);
 draw_text_ext(bbox_left + 20, bbox_top + 15, mimensaje, 20, maxAncho); //MENSAJE RECORTADO
 //draw_sprite_ext(sprt_likes1, 0, x+250, bbox_bottom,1,1,0,c_white,1);
