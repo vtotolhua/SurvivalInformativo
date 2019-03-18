@@ -52,7 +52,7 @@
 nomegusta = true;
 instance_deactivate_object(obj_megusta);
 instance_deactivate_object(obj_nomegusta);
-instance_deactivate_object(mensdest);
+instance_deactivate_object(mensdestjuego);
 scrMegusta ();
 
 </string>
@@ -81,7 +81,7 @@ scrMegusta ();
 nomegusta = true;
 instance_deactivate_object(obj_megusta);
 instance_deactivate_object(obj_nomegusta);
-instance_deactivate_object(mensdest);
+instance_deactivate_object(mensdestjuego);
 scrMegusta ();
 
 </string>
