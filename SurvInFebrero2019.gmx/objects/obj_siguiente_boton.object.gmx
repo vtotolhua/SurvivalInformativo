@@ -27,11 +27,13 @@
             <kind>1</kind>
             <string>if (persAct){
      if (room_get_name(room) == "Selecciona_personaje"){
+        audio_play_sound(snd_click_arpa1, 1, false);
         room_goto(Controles);
     }
 }
     if (room_get_name(room) == "Controles"){
         audio_stop_all();
+        audio_play_sound(snd_click_arpa1, 1, false);
         room_goto(roomactivo);
     }
 </string>

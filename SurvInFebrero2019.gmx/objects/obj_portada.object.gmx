@@ -29,7 +29,7 @@
 YY = 0;
 PuedeTemblar = false;
 
-show_debug_message("XX " + string(XX) + " " +  "YY " + string(YY) + " " + "puedeTemblas " + string(PuedeTemblar));
+//show_debug_message("XX " + string(XX) + " " +  "YY " + string(YY) + " " + "puedeTemblas " + string(PuedeTemblar));
 
 </string>
           </argument>
@@ -54,7 +54,7 @@ show_debug_message("XX " + string(XX) + " " +  "YY " + string(YY) + " " + "puede
           <argument>
             <kind>1</kind>
             <string>PuedeTemblar = true; 
-   show_debug_message("2_XX " + string(XX) + "2_YY " + string(YY) + "2_puedeTemblas " + string(PuedeTemblar));
+   //show_debug_message("2_XX " + string(XX) + "2_YY " + string(YY) + "2_puedeTemblas " + string(PuedeTemblar));
 </string>
           </argument>
         </arguments>
@@ -124,7 +124,7 @@ XX = XXX + irandom(10);
 YY = YYY + irandom(10);
 
 draw_sprite_ext(sprt_portadaFinal, -1, XX, YY, 1, 1, 0, c_white, 1 );
-    show_debug_message("1_XX " + string(XX) + "1_YY " + string(YY) + "1_puedeTemblas " + string(PuedeTemblar));
+  //  show_debug_message("1_XX " + string(XX) + "1_YY " + string(YY) + "1_puedeTemblas " + string(PuedeTemblar));
     PuedeTemblar = false;
 }
 else{
