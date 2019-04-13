@@ -8,6 +8,8 @@
     <sound>sound\snd_ambientacion</sound>
     <sound>sound\snd_Escena_II_Alarma</sound>
     <sound>sound\snd_Escena_I</sound>
+    <sound>sound\snd_click_arpa1</sound>
+    <sound>sound\snd_click_fatA</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="sprt_portada">
