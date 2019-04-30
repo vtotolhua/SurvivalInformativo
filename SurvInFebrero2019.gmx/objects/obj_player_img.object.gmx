@@ -170,6 +170,7 @@ if (ID= 1){
 persAct = true;
 roomactivo = room9;
 with (inst_C620A0EB) image_blend = c_yellow;
+audio_play_sound(snd_click_arpa1, 1,false);
 //show_debug_message("obrero");
 //show_debug_message(roomactivo);
 }
@@ -177,6 +178,7 @@ if (ID= 2){
 persAct = true;
 roomactivo = roomenf;
 with (inst_63F93CE8) image_blend = c_yellow;
+audio_play_sound(snd_click_arpa1, 1,false);
 //show_debug_message("enf");
 //show_debug_message(roomactivo);
 }
@@ -184,6 +186,7 @@ if (ID= 3){
 persAct = true;
 roomactivo = roomest;
 with (inst_77B5E29E) image_blend = c_yellow;
+audio_play_sound(snd_click_arpa1, 1,false);
 //show_debug_message("est");
 //show_debug_message(roomactivo);
 }
@@ -191,6 +194,7 @@ if (ID= 4){
 persAct = true;
 roomactivo = roomgodi;
 with (inst_1545345D) image_blend = c_yellow;
+audio_play_sound(snd_click_arpa1, 1,false);
 //show_debug_message("godin");
 //show_debug_message(roomactivo);
 }
