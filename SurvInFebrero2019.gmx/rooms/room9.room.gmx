@@ -196,7 +196,7 @@ paso1=1;</code>
     <instance objName="obj_silla4" x="3616" y="3840" name="inst_00C520C0" locked="0" code="" scaleX="1.27999997138977" scaleY="1.11304342746735" colour="4294967295" rotation="0"/>
     <instance objName="obj_silla2" x="3648" y="3712" name="inst_64DF4F17" locked="0" code="" scaleX="1.27999997138977" scaleY="1.23076927661896" colour="4294967295" rotation="0"/>
     <instance objName="obj_silla3" x="3232" y="3808" name="inst_2AD33C06" locked="0" code="" scaleX="1.27999997138977" scaleY="1.23076927661896" colour="4294967295" rotation="0"/>
-    <instance objName="obj_hospital4" x="14848" y="3200" name="inst_4C2A2BE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_hospital4" x="15136" y="3232" name="inst_4C2A2BE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_edificioaa" x="384" y="1664" name="inst_743D316A" locked="0" code="" scaleX="0.853333353996277" scaleY="0.870090663433075" colour="4294967295" rotation="0"/>
     <instance objName="obj_edificiobb" x="9696" y="960" name="inst_B3F0CFC4" locked="0" code="" scaleX="1.06666672229767" scaleY="1.06344413757324" colour="4294967295" rotation="0"/>
     <instance objName="obj_edificioee" x="10080" y="3680" name="inst_ABC6CD4B" locked="0" code="" scaleX="1.0971428155899" scaleY="1.03999996185303" colour="4294967295" rotation="0"/>
@@ -227,7 +227,7 @@ paso1=1;</code>
     <instance objName="obj_escuela4" x="8640" y="896" name="inst_AF22F1C2" locked="0" code="" scaleX="1.07000005245209" scaleY="1.12062251567841" colour="4294967295" rotation="0"/>
     <instance objName="obj_escuela5" x="13792" y="1440" name="inst_5DAF54FF" locked="0" code="" scaleX="1.17333328723907" scaleY="1.12000000476837" colour="4294967295" rotation="0"/>
     <instance objName="obj_escuela5" x="9600" y="4800" name="inst_EEAE3ED1" locked="0" code="" scaleX="1.17333328723907" scaleY="1.24513614177704" colour="4294967295" rotation="0"/>
-    <instance objName="obj_casa" x="14496" y="2976" name="inst_1EFB2E23" locked="0" code="" scaleX="1.75999999046326" scaleY="1.66233766078949" colour="4294967295" rotation="0"/>
+    <instance objName="obj_casa" x="14528" y="2976" name="inst_1EFB2E23" locked="0" code="" scaleX="1.75999999046326" scaleY="1.66233766078949" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa_torre" x="14816" y="2080" name="inst_0936FE08" locked="0" code="" scaleX="1.12000000476837" scaleY="1.16363632678986" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa_torre" x="5588" y="1408" name="inst_E865BB33" locked="0" code="" scaleX="0.800000011920929" scaleY="0.800000011920929" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa_torre" x="1120" y="2272" name="inst_10BE9AC6" locked="0" code="" scaleX="1.12000000476837" scaleY="1.09090912342072" colour="4294967295" rotation="0"/>
@@ -244,7 +244,7 @@ paso1=1;</code>
     <instance objName="obj_casa15" x="4576" y="3552" name="inst_A6DBD62E" locked="0" code="" scaleX="1.06666672229767" scaleY="1.0971428155899" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa15" x="2016" y="4896" name="inst_9F04DE68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa16" x="5600" y="2464" name="inst_095E179B" locked="0" code="" scaleX="1.06666672229767" scaleY="1.00571429729462" colour="4294967295" rotation="0"/>
-    <instance objName="obj_casa16" x="14464" y="3712" name="inst_59FC626A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_casa16" x="14758" y="3520" name="inst_59FC626A" locked="0" code="" scaleX="1.06666672229767" scaleY="1.00571429729462" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa20" x="13184" y="4512" name="inst_7695E4E3" locked="0" code="" scaleX="1.20547950267792" scaleY="1.26482212543488" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa20" x="8128" y="3072" name="inst_DB6F18F0" locked="0" code="" scaleX="1.09589040279388" scaleY="1.1383398771286" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa20" x="5312" y="640" name="inst_32B1FB3E" locked="0" code="" scaleX="1.31506848335266" scaleY="1.39130437374115" colour="4294967295" rotation="0"/>
@@ -339,7 +339,7 @@ paso1=1;</code>
     <instance objName="obj_silladestruida" x="3424" y="2336" name="inst_911C3B13" locked="0" code="" scaleX="1.27999997138977" scaleY="1.11304342746735" colour="4294967295" rotation="0"/>
     <instance objName="obj_silladestruida" x="2656" y="4576" name="inst_0F176F84" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_silladestruida" x="5920" y="4992" name="inst_77B083F0" locked="0" code="" scaleX="1.27999997138977" scaleY="1.11304342746735" colour="4294967295" rotation="0"/>
-    <instance objName="obj_silladestruida" x="14720" y="3680" name="inst_77C8CBE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_silladestruida" x="14496" y="3744" name="inst_77C8CBE4" locked="0" code="" scaleX="2.55999994277954" scaleY="1.94782602787018" colour="4294967295" rotation="0"/>
     <instance objName="objt_metro_destruido" x="14080" y="3040" name="inst_64B59942" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objt_metro_destruido" x="1632" y="2784" name="inst_E4F726CB" locked="0" code="" scaleX="1.06666672229767" scaleY="1.15315318107605" colour="4294967295" rotation="0"/>
     <instance objName="obj_cartel" x="736" y="2112" name="inst_409FE2B0" locked="0" code="" scaleX="0.533333361148834" scaleY="0.439999997615814" colour="4294967295" rotation="0"/>
@@ -453,7 +453,7 @@ paso1=1;</code>
     <instance objName="obj_casa_mens_juego" x="14464" y="960" name="inst_08383DD6" locked="0" code="" scaleX="1.17333328723907" scaleY="1.12280702590942" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa_mens_juego" x="13376" y="1600" name="inst_AAE8D905" locked="0" code="" scaleX="1.17333328723907" scaleY="1.12000000476837" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa_mens_juego" x="13696" y="2848" name="inst_A74DB3CF" locked="0" code="" scaleX="1.38999998569489" scaleY="1.12280702590942" colour="4294967295" rotation="0"/>
-    <instance objName="obj_casa_mens_juego" x="14784" y="3456" name="inst_04A41F82" locked="0" code="" scaleX="1.27999997138977" scaleY="1.12000000476837" colour="4294967295" rotation="0"/>
+    <instance objName="obj_casa_mens_juego" x="14912" y="3392" name="inst_04A41F82" locked="0" code="" scaleX="0.959999978542328" scaleY="0.882205486297607" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa_mens_juego" x="11552" y="4448" name="inst_1B6CC022" locked="0" code="" scaleX="1.16999995708466" scaleY="1.04260647296906" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa_mens_juego" x="8704" y="4800" name="inst_6B9649ED" locked="0" code="" scaleX="1.27999997138977" scaleY="1.12280702590942" colour="4294967295" rotation="0"/>
     <instance objName="obj_casa_mens_juego" x="5792" y="5536" name="inst_0678F681" locked="0" code="" scaleX="1.17333328723907" scaleY="1.12280702590942" colour="4294967295" rotation="0"/>
@@ -485,7 +485,7 @@ paso1=1;</code>
     <instance objName="obj_lineagrande2" x="-384" y="5056" name="inst_5B107D6F" locked="0" code="" scaleX="1.11000001430511" scaleY="1.01926529407501" colour="4294967295" rotation="0"/>
     <instance objName="obj_lineagrande2" x="16064" y="288" name="inst_5C206C56" locked="0" code="" scaleX="-1.11000001430511" scaleY="1.16999995708466" colour="4294967295" rotation="0"/>
     <instance objName="obj_lineagrande2" x="16096" y="4352" name="inst_D6A53597" locked="0" code="" scaleX="-1.25" scaleY="1.20000004768372" colour="4294967295" rotation="0"/>
-    <instance objName="obj_lineagrande2" x="16128" y="2432" name="inst_3265AA4B" locked="0" code="" scaleX="-1.05999994277954" scaleY="1.08502435684204" colour="4294967295" rotation="0"/>
+    <instance objName="obj_lineagrande2" x="16064" y="2560" name="inst_3265AA4B" locked="0" code="" scaleX="-1.05999994277954" scaleY="1.08502435684204" colour="4294967295" rotation="0"/>
     <instance objName="obj_mision_00" x="5312" y="1664" name="inst_DB1BE400" locked="0" code="" scaleX="1.91999995708466" scaleY="1.77777779102325" colour="4294967295" rotation="0"/>
     <instance objName="obj_mision_01" x="3872" y="3616" name="inst_8E3CC1B8" locked="0" code="" scaleX="1.91999995708466" scaleY="1.91999995708466" colour="4294967295" rotation="0"/>
     <instance objName="obj_mision_02" x="10528" y="4064" name="inst_3C538A82" locked="0" code="" scaleX="1.91999995708466" scaleY="1.91999995708466" colour="4294967295" rotation="0"/>
